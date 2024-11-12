@@ -7,7 +7,7 @@
   - Computer vision
   - Predictive modeling
   - Reinforcement learning
-- 📫 How to reach me: You can reach me through GitHub or [email](mailto:your-email@example.com).
+- 📫 How to reach me: You can reach me through GitHub or [email](manojshark11@gmail.com).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring futuristic projects that use advanced deep learning to solve real-world challenges!
 
