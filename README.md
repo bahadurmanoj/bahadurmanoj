@@ -1,7 +1,7 @@
 - 👋 Hi, I’m [@bahadurmanoj](https://github.com/bahadurmanoj)
-- 👀 I’m interested in Machine Learning (ML), Deep Learning, and Artificial Intelligence (AI).
-- 🌱 I’m currently learning ML, Deep Learning, and AI.
-- 💞️ I’m looking to collaborate on ML, Deep Learning, and AI projects, especially those related to:
+- 👀 I’m enthusiast of Machine Learning (ML), Deep Learning, Artificial Intelligence (AI), generative AI and Computer Vision.
+- 🌱 I’m currently learning ML, Deep Learning, generative AI and Computer Vision.
+- 💞️ I’m looking to collaborate on ML, Deep Learning, AI projects and generative AI especially those related to:
   - Environmental data analysis
   - Natural language processing (NLP)
   - Computer vision
